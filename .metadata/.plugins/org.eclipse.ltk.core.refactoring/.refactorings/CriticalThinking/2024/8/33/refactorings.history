@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;CriticalThinking&apos;&#x0D;&#x0A;- Original project: &apos;CriticalThinking&apos;&#x0D;&#x0A;- Original element: &apos;CSC320_Module1_CT1_Option2.CSC320_CT1_Option2.java&apos;" description="Delete element" element1="/src&lt;CSC320_Module1_CT1_Option2{CSC320_CT1_Option2.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1723574682758" subPackages="false" version="1.0"/>
+</session>
